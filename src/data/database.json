@@ -1,0 +1,21 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "usuarioId": 1,
+      "titulo": "Estudar Node.js",
+      "descricao": "Revisar os conceitos de programação assíncrona",
+      "status": "concluída",
+      "dataCriacao": "2024-03-12",
+      "dataConclusao": "12/03/2024 11:27:33"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Usuario 1",
+      "email": "usuario1@example.com",
+      "senhaHash": "algumHashDeSenha123"
+    }
+  ]
+}
